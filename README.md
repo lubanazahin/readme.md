@@ -1,6 +1,6 @@
 # Hi, I'm Lubana Zahin
 
-CSE Student @ IIUC | Software Engineering | RAG & Information Retrieval | Cybersecurity
+
 
 ## About Me
 
