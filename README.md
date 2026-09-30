@@ -36,7 +36,7 @@ An interactive browser-based educational simulation designed to teach space miss
 
 ## Technologies
 
-- Python
+- Python, c++
 - JavaScript
 - TypeScript
 - React
